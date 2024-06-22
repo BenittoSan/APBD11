@@ -2,8 +2,8 @@
 /shelf/
 /workspace.xml
 # Rider ignored files
+/.idea.MvcMovie.iml
 /contentModel.xml
-/.idea.OverviewMVC.iml
 /projectSettingsUpdater.xml
 /modules.xml
 # Editor-based HTTP Client requests
